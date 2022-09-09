@@ -1,0 +1,20 @@
+{
+    "name": "watchfulli/xcloner-restore",
+    "require": {
+        "monolog/monolog": "^2.8",
+        "league/flysystem": "^2.4",
+        "splitbrain/php-archive": "^1.3",
+        "ext-mysqli": "*",
+        "ext-json": "*"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Watchful",
+            "email": "info@watchful.net"
+        }
+    ],
+    "config": {
+        "vendor-dir": "xcloner-restore/lib/vendor"
+    }
+}
