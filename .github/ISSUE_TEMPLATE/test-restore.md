@@ -1,6 +1,8 @@
 # Target site details & prep
 URL: Enter URL of target site.
+
 Database: Enter name of database.
+
 DB Prefix: Enter name of database prefix for this site.
 - [ ] Download testing version of restore script.
 - [ ] Extract testing script.
