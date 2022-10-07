@@ -1,3 +1,12 @@
+---
+name: Restore testing
+about: Test the restore script before releasing a new version,
+title: "[TESTING] test restore script x.y.z"
+labels: testing
+assignees: jimiero
+
+---
+
 # Target site details & prep
 1. Site name: Enter name of the target testing site.
 1. DB Prefix: Enter name of database prefix for this site.
