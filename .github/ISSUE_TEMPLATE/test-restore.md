@@ -1,16 +1,16 @@
 # Target site details & prep
-- URL: Enter URL of target site.
-- Database: Enter name of database.
-- DB Prefix: Enter name of database prefix for this site.
+1. URL: Enter URL of target site.
+1. Database: Enter name of database.
+1. DB Prefix: Enter name of database prefix for this site.
 
 - [ ] Download testing version of restore script.
 - [ ] Extract testing script.
 - [ ] Upload testing script (including the `vendor` folder) to root of target site.
 
 # Source site details & prep
-- URL: Enter URL of source site.
-- Database: Enter name of database.
-- DB Prefix: Enter name of database prefix for this site.
+1. URL: Enter URL of source site.
+1. Database: Enter name of database.
+1. DB Prefix: Enter name of database prefix for this site.
 
 - [ ] Install most recent version of XCloner (or testing version as appropriate).
 - [ ] Create a full site backup.
